@@ -16,7 +16,8 @@
 ### STEP 6: After the process is complete click on 'Stop Process' to view product generated using FDM process.
 
 ## OUTPUT:
-![Alt text](image.png)
+![Screenshot 2023-11-29 085909](https://github.com/23013753/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/145634121/1d64d8e0-36d4-4f6f-8d1e-f2ca6c71f650)
+
 
 
 ## Output:
